@@ -204,9 +204,9 @@ function displayScore() {
 
 function setEndHeading() {
   if (totalTime === 0) {
-    END_TITLE.textContent = "Sorry! You ran out of time!";
+    END_TITLE.textContent = "Sorry! time out!";
   } else {
-    END_TITLE.textContent = "Congratulations! You answered all the questions before your time ran out!";
+    END_TITLE.textContent = "Congratulations! Your done!";
   }
 }
 
