@@ -13,4 +13,4 @@ Description
 
 The following demonstrates the application functionality: Main JavaScript Concepts Used, Classes, CSS Transitions, Breakpoints  Event Listeners,`setTimeout`/`setInterval`, Using Local Storage
 
-© 2020 Trilogy Education Services, a 2U, Inc. brand. homework assignment.Carleton University Coding Bootcamp. All Rights Reserved.
+© 2020 Trilogy Education Services, a 2U, Inc. brand. homework assignment.https://bootcamp.carleton.ca/ All Rights Reserved.
