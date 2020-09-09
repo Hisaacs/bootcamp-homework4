@@ -1,7 +1,6 @@
 ## 04 JavaScript: Code Quiz
 
-Purpose of this project is to create a timed JavaScript quiz, that Test your knowledge with coding quiz challenges. When a question is answered incorrectly, time is reduced from the remaining time. 
-Once complete, you can save your score and save it to local storage. The user's remaining time is their final score and the user may save their score to their local storage by entering their initials.
+Purpose of this project is to create a timed JavaScript quiz, where users may save their score to their local storage after completing the coding quiz challenge by entering their initials.
 All the saved scores can be viewed on the highscores pageRestarting the quiz will clear the stored scores.
 
 Description
