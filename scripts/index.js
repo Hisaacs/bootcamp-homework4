@@ -44,7 +44,7 @@ const QUESTION_LIST = [QUESTION_1, QUESTION_2, QUESTION_3, QUESTION_4, QUESTION_
 
 let currentQuestion = 0;
 
-let totalTime = 60;
+let totalTime = 75;
 let totalTimeInterval;
 let choiceStatusTimeout; 
 
